@@ -1,0 +1,248 @@
+Continent;Name;ISO 3
+AS;Afghanistan;AFG
+EU;Åland Islands;ALA
+EU;Albania;ALB
+AF;Algeria;DZA
+OC;American Samoa;ASM
+EU;Andorra;AND
+AF;Angola;AGO
+NA;Anguilla;AIA
+AN;Antarctica;ATA
+NA;Antigua and Barbuda;ATG
+SA;Argentina;ARG
+AS;Armenia;ARM
+NA;Aruba;ABW
+OC;Australia;AUS
+EU;Austria;AUT
+AS;Azerbaijan;AZE
+NA;Bahamas;BHS
+AS;Bahrain;BHR
+AS;Bangladesh;BGD
+NA;Barbados;BRB
+EU;Belarus;BLR
+EU;Belgium;BEL
+NA;Belize;BLZ
+AF;Benin;BEN
+NA;Bermuda;BMU
+AS;Bhutan;BTN
+SA;Bolivia;BOL
+NA;Bonaire;BES
+EU;Bosnia and Herzegovina;BIH
+AF;Botswana;BWA
+AN;Bouvet Island;BVT
+SA;Brazil;BRA
+AS;British Indian Ocean Territory;IOT
+AS;Brunei Darussalam;BRN
+EU;Bulgaria;BGR
+AF;Burkina Faso;BFA
+AF;Burundi;BDI
+AS;Cambodia;KHM
+AF;Cameroon;CMR
+NA;Canada;CAN
+AF;Cape Verde;CPV
+NA;Cayman Islands;CYM
+AF;Central African Republic;CAF
+AF;Chad;TCD
+SA;Chile;CHL
+AS;China;CHN
+AS;Christmas Island;CXR
+AS;Cocos (Keeling) Islands;CCK
+SA;Colombia;COL
+AF;Comoros;COM
+AF;Congo;COG
+OC;Cook Islands;COK
+NA;Costa Rica;CRI
+AF;Côte d'Ivoire;CIV
+EU;Croatia;HRV
+NA;Cuba;CUB
+NA;Curaçao;CUW
+AS;Cyprus;CYP
+EU;Czech Republic;CZE
+EU;Denmark;DNK
+AF;Djibouti;DJI
+NA;Dominica;DMA
+NA;Dominican Republic;DOM
+SA;Ecuador;ECU
+AF;Egypt;EGY
+NA;El Salvador;SLV
+AF;Equatorial Guinea;GNQ
+AF;Eritrea;ERI
+EU;Estonia;EST
+AF;Ethiopia;ETH
+SA;Falkland Islands (Malvinas);FLK
+EU;Faroe Islands;FRO
+OC;Fiji;FJI
+EU;Finland;FIN
+EU;France;FRA
+SA;French Guiana;GUF
+OC;French Polynesia;PYF
+AN;French Southern Territories;ATF
+AF;Gabon;GAB
+AF;Gambia;GMB
+AS;Georgia;GEO
+EU;Germany;DEU
+AF;Ghana;GHA
+EU;Gibraltar;GIB
+EU;Greece;GRC
+NA;Greenland;GRL
+NA;Grenada;GRD
+NA;Guadeloupe;GLP
+OC;Guam;GUM
+NA;Guatemala;GTM
+EU;Guernsey;GGY
+AF;Guinea;GIN
+AF;Guinea-Bissau;GNB
+SA;Guyana;GUY
+NA;Haiti;HTI
+AN;Heard Island and McDonald Islands;HMD
+EU;Vatican;VAT
+NA;Honduras;HND
+AS;Hong Kong;HKG
+EU;Hungary;HUN
+EU;Iceland;ISL
+AS;India;IND
+AS;Indonesia;IDN
+AS;Iran;IRN
+AS;Iraq;IRQ
+EU;Ireland;IRL
+EU;Isle of Man;IMN
+AS;Israel;ISR
+EU;Italy;ITA
+NA;Jamaica;JAM
+AS;Japan;JPN
+EU;Jersey;JEY
+AS;Jordan;JOR
+AS;Kazakhstan;KAZ
+AF;Kenya;KEN
+OC;Kiribati;KIR
+AS;North Korea;PRK
+AS;South Korea;KOR
+AS;Kuwait;KWT
+AS;Kyrgyzstan;KGZ
+AS;Laos;LAO
+EU;Latvia;LVA
+AS;Lebanon;LBN
+AF;Lesotho;LSO
+AF;Liberia;LBR
+AF;Libyan Arab Jamahiriya;LBY
+EU;Liechtenstein;LIE
+EU;Lithuania;LTU
+EU;Luxembourg;LUX
+AS;Macao;MAC
+EU;Macedonia;MKD
+AF;Madagascar;MDG
+AF;Malawi;MWI
+AS;Malaysia;MYS
+AS;Maldives;MDV
+AF;Mali;MLI
+EU;Malta;MLT
+OC;Marshall Islands;MHL
+NA;Martinique;MTQ
+AF;Mauritania;MRT
+AF;Mauritius;MUS
+AF;Mayotte;MYT
+NA;Mexico;MEX
+OC;Micronesia;FSM
+EU;Moldova;MDA
+EU;Monaco;MCO
+AS;Mongolia;MNG
+EU;Montenegro;MNE
+NA;Montserrat;MSR
+AF;Morocco;MAR
+AF;Mozambique;MOZ
+AS;Myanmar;MMR
+AF;Namibia;NAM
+OC;Nauru;NRU
+AS;Nepal;NPL
+EU;Netherlands;NLD
+OC;New Caledonia;NCL
+OC;New Zealand;NZL
+NA;Nicaragua;NIC
+AF;Niger;NER
+AF;Nigeria;NGA
+OC;Niue;NIU
+OC;Norfolk Island;NFK
+OC;Northern Mariana Islands;MNP
+EU;Norway;NOR
+AS;Oman;OMN
+AS;Pakistan;PAK
+OC;Palau;PLW
+AS;State of Palestine;PSE
+NA;Panama;PAN
+OC;Papua New Guinea;PNG
+SA;Paraguay;PRY
+SA;Peru;PER
+AS;Philippines;PHL
+OC;Pitcairn;PCN
+EU;Poland;POL
+EU;Portugal;PRT
+NA;Puerto Rico;PRI
+AS;Qatar;QAT
+AF;Réunion;REU
+EU;Romania;ROU
+EU;Russian Federation;RUS
+AF;Rwanda;RWA
+NA;Saint Barthélemy;BLM
+AF;Saint Helena;SHN
+NA;Saint Kitts and Nevis;KNA
+NA;Saint Lucia;LCA
+NA;Saint Martin (French part);MAF
+NA;Saint Pierre and Miquelon;SPM
+NA;Saint Vincent and the Grenadines;VCT
+OC;Samoa;WSM
+EU;San Marino;SMR
+AF;Sao Tome and Principe;STP
+AS;Saudi Arabia;SAU
+AF;Senegal;SEN
+EU;Serbia;SRB
+AF;Seychelles;SYC
+AF;Sierra Leone;SLE
+AS;Singapore;SGP
+NA;Sint Maarten (Dutch part);SXM
+EU;Slovakia;SVK
+EU;Slovenia;SVN
+OC;Solomon Islands;SLB
+AF;Somalia;SOM
+AF;South Africa;ZAF
+AF;South Sudan;SSD
+EU;Spain;ESP
+AS;Sri Lanka;LKA
+AF;Sudan;SDN
+SA;Suriname;SUR
+EU;Svalbard and Jan Mayen;SJM
+AF;Swaziland;SWZ
+EU;Sweden;SWE
+EU;Switzerland;CHE
+AS;Syrian Arab Republic;SYR
+AS;Taiwan;TWN
+AS;Tajikistan;TJK
+AF;Tanzania;TZA
+AS;Thailand;THA
+AS;Timor-Leste;TLS
+AF;Togo;TGO
+OC;Tokelau;TKL
+OC;Tonga;TON
+NA;Trinidad and Tobago;TTO
+AF;Tunisia;TUN
+EU;Turkey;TUR
+AS;Turkmenistan;TKM
+NA;Turks and Caicos Islands;TCA
+OC;Tuvalu;TUV
+AF;Uganda;UGA
+EU;Ukraine;UKR
+AS;United Arab Emirates;ARE
+EU;United Kingdom;GBR
+NA;United States;USA
+OC;United States Minor Outlying Islands;UMI
+SA;Uruguay;URY
+AS;Uzbekistan;UZB
+OC;Vanuatu;VUT
+SA;Venezuela;VEN
+AS;Vietnam;VNM
+NA;British Virgin Islands;VGB
+NA;U.S. Virgin Islands;VIR
+OC;Wallis and Futuna;WLF
+AF;Western Sahara;ESH
+AS;Yemen;YEM
+AF;Zambia;ZMB
+AF;Zimbabwe;ZWE
